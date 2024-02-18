@@ -1,0 +1,229 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "10_Relationship"
+    },
+    {
+      "id": 1,
+      "name": "11_Company_or_plan"
+    },
+    {
+      "id": 2,
+      "name": "12_Policyholder_details"
+    },
+    {
+      "id": 3,
+      "name": "13_DOB"
+    },
+    {
+      "id": 4,
+      "name": "14_Gender"
+    },
+    {
+      "id": 5,
+      "name": "15_SSN"
+    },
+    {
+      "id": 6,
+      "name": "16_Plan_Number"
+    },
+    {
+      "id": 7,
+      "name": "17_Employer_Name"
+    },
+    {
+      "id": 8,
+      "name": "18_Relationship"
+    },
+    {
+      "id": 9,
+      "name": "19_Use"
+    },
+    {
+      "id": 10,
+      "name": "1_Type_of_Transaction"
+    },
+    {
+      "id": 11,
+      "name": "20_Name"
+    },
+    {
+      "id": 12,
+      "name": "21_DOB"
+    },
+    {
+      "id": 13,
+      "name": "22_Gender"
+    },
+    {
+      "id": 14,
+      "name": "23_Patient_ID"
+    },
+    {
+      "id": 15,
+      "name": "24_31_Table"
+    },
+    {
+      "id": 16,
+      "name": "2_Pre_Number"
+    },
+    {
+      "id": 17,
+      "name": "31_A_Other_Fee"
+    },
+    {
+      "id": 18,
+      "name": "32_Total_Fee"
+    },
+    {
+      "id": 19,
+      "name": "33_Missing_Teeth"
+    },
+    {
+      "id": 20,
+      "name": "34_A_Diag_Codes"
+    },
+    {
+      "id": 21,
+      "name": "34_Code_list_Qualifier"
+    },
+    {
+      "id": 22,
+      "name": "35_Remarks"
+    },
+    {
+      "id": 23,
+      "name": "36_Signature"
+    },
+    {
+      "id": 24,
+      "name": "37_Signature"
+    },
+    {
+      "id": 25,
+      "name": "38_Place_of_treatment"
+    },
+    {
+      "id": 26,
+      "name": "39_Enclosures"
+    },
+    {
+      "id": 27,
+      "name": "3_Company_address"
+    },
+    {
+      "id": 28,
+      "name": "40_Orthodontics"
+    },
+    {
+      "id": 29,
+      "name": "41_Date"
+    },
+    {
+      "id": 30,
+      "name": "42_Months_remaining"
+    },
+    {
+      "id": 31,
+      "name": "43_Prosthesis"
+    },
+    {
+      "id": 32,
+      "name": "44_Date"
+    },
+    {
+      "id": 33,
+      "name": "45_Treatment_resulting_form"
+    },
+    {
+      "id": 34,
+      "name": "46_Date_of_accident"
+    },
+    {
+      "id": 35,
+      "name": "47_Auto_Accident_state"
+    },
+    {
+      "id": 36,
+      "name": "48_Dentist_Address"
+    },
+    {
+      "id": 37,
+      "name": "49_NPI"
+    },
+    {
+      "id": 38,
+      "name": "4_Other_Coverage"
+    },
+    {
+      "id": 39,
+      "name": "50_Licence_Number"
+    },
+    {
+      "id": 40,
+      "name": "51_SSN_TIN"
+    },
+    {
+      "id": 41,
+      "name": "52_A_Addl_Provider_id"
+    },
+    {
+      "id": 42,
+      "name": "52_Phone_Number"
+    },
+    {
+      "id": 43,
+      "name": "53_Signature"
+    },
+    {
+      "id": 44,
+      "name": "54_NPI"
+    },
+    {
+      "id": 45,
+      "name": "55_Licence_Number"
+    },
+    {
+      "id": 46,
+      "name": "56_A_Provider_Spl_Code"
+    },
+    {
+      "id": 47,
+      "name": "56_Address"
+    },
+    {
+      "id": 48,
+      "name": "57_Phone_Number"
+    },
+    {
+      "id": 49,
+      "name": "58_Addl_provider_id"
+    },
+    {
+      "id": 50,
+      "name": "5_Name"
+    },
+    {
+      "id": 51,
+      "name": "6_DOB"
+    },
+    {
+      "id": 52,
+      "name": "7_Gender"
+    },
+    {
+      "id": 53,
+      "name": "8_SSN"
+    },
+    {
+      "id": 54,
+      "name": "9_Plan_Number"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
